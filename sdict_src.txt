@@ -13,6 +13,48 @@ QoS: Quality of Service
 _____
 
 RSVP
-RSVP: Resource Reservation Protocol 
-IntServ (Cisco IOS Software , RFC 1633, June 1994) uses RSVP to explicitly signal the QoS needs of an application's traffic along the devices in the end-to-end path through the network
+RSVP: Resource Reservation Protocol   
+资源预留协议    
+IntServ (Cisco IOS Software , RFC 1633, June 1994) uses RSVP to explicitly signal the QoS needs of an application's traffic along the devices in the end-to-end path through the network    
+RSVP 并不是一个路由协议，而是一种IP网络中的信令协议，它与路由协议相结合来实现对网络传输服务质量（QoS）的控制。RSVP是为支持因特网综合业务而提出的。这是解决IP通信中QoS（服务质量）问题的一种技术，用来保证点端到端的传输带宽   
 see: http://www.cisco.com/c/en/us/products/ios-nx-os-software/resource-reservation-protocol-rsvp/index.html
+
+_____
+
+RTSP
+RTSP: Real Time Streaming Protocol 
+The RTSP is a network control protocol designed for use in entertainment and communications systems to control streaming media servers.
+用于实时流媒体
+
+_____
+
+RTP
+RTP: Real-time Transport Protocol 
+实时传输协议
+The RTP is a network protocol for delivering audio and video over IP networks.
+RTP typically runs over User Datagram Protocol (UDP)
+RTP协议在UDP协议的上一层
+
+_____
+
+SDP
+SDP : Session Description Protocol
+会话描述协议
+该协议用于媒体协商
+
+_____
+
+SAP
+SAP : Session Announcement Protocol 
+会话通知协议
+SAP is an experimental protocol for broadcasting multicast session information
+SAP 提供协助组播 多媒体会议广告以及其它组播会话过程，并为未来参与者传送相关会话设置信息
+
+
+_____
+
+RTCP
+RTCP: Real-time Transpor Control Protocol
+实时传输控制协议
+RTCP 是设计和RTP一起使用的进行流量控制和拥塞控制的服务控制协议。
+
