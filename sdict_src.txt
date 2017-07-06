@@ -1,0 +1,18 @@
+_____
+
+version
+dictionary for software 
+v0.1
+
+_____
+
+QoS
+QoS: Quality of Service
+
+
+_____
+
+RSVP
+RSVP: Resource Reservation Protocol 
+IntServ (Cisco IOS Software , RFC 1633, June 1994) uses RSVP to explicitly signal the QoS needs of an application's traffic along the devices in the end-to-end path through the network
+see: http://www.cisco.com/c/en/us/products/ios-nx-os-software/resource-reservation-protocol-rsvp/index.html
